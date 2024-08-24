@@ -1,4 +1,6 @@
-Deploy: https://pizzeria-react-etapa3-3r2t0selj-angelica-sotos-projects.vercel.app
+Deploy:https://pizzeria-react-etapa4-l7i8du4qd-angelica-sotos-projects.vercel.app
+
+Nota: se sube sólo el proyecto, entendiendo que como corrector tienes acceso al backend y no es necesario subirlo
 
 # React + Vite
 
